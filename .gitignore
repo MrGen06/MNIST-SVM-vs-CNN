@@ -1,0 +1,16 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook temporary saves
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Datasets and Large Files (Kept local/on Drive)
+data/
+*.npy
+
+# Model weights (If larger than 50MB, consider ignoring)
+# models/*.h5
+# models/*.pkl
