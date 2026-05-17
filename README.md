@@ -10,6 +10,11 @@ Our goal was not just to train standard models to get a high accuracy score on c
 
 ---
 
+## Documentation & Report
+- [Project Report](./mnist_report.pdf)
+
+----
+
 ## How to Run Our Code (Reproducibility)
 We developed this project using **Google Colab** to leverage cloud GPUs. We have included our final trained models (`advanced_cnn.keras` and `hybrid_svm_15k.pkl`) in the `models/` directory so you can easily verify our results in `04_evaluation.ipynb`.
 
